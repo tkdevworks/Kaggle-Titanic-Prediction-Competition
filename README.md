@@ -14,15 +14,15 @@ Performance is measured using accuracy, which is the proportion of passengers co
 ## Versions
 
 ### Version 1
-**Model:** Baseline Random Forest Regressor
-**Accuracy:** 77.511%
-**Leaderboard Position:** ~7000/13500
+**Model:** Baseline Random Forest Regressor                      
+**Accuracy:** 77.511%                             
+**Leaderboard Position:** ~7000/13500                 
 
 ---
 
 ### Version 2
-**Model:** XGBoost Classifier with some feature engineering
-**MAE:** 77.272% 
-**Leaderboard Position:** ~7000/13500  
+**Model:** XGBoost Classifier with some feature engineering                
+**MAE:** 77.272%                     
+**Leaderboard Position:** ~7000/13500                    
 
 ---
